@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(44, 90, 163);;
+}
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    width: 100%;
+    gap: 40px;
+}
+
+.meuFormulario {
+    width: 400px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
